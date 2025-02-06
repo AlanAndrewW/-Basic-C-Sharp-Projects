@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\Math and Comparison Operators.exe.config
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\Math and Comparison Operators.exe
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\bin\Debug\Math and Comparison Operators.pdb
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.exe
+C:\Users\andre\Desktop\Math and Comparison Operators\Math and Comparison Operators\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.pdb
