@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\bin\Debug\ArrayAssingment.exe.config
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\bin\Debug\ArrayAssingment.exe
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\bin\Debug\ArrayAssingment.pdb
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\obj\Debug\ArrayAssingment.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\obj\Debug\ArrayAssingment.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\obj\Debug\ArrayAssingment.exe
+C:\Users\andre\Desktop\ArrayAssignment\ArrayAssingment\ArrayAssingment\obj\Debug\ArrayAssingment.pdb
