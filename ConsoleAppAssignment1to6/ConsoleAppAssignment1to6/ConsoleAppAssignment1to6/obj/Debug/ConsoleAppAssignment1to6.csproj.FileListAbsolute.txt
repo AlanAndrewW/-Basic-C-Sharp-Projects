@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\bin\Debug\ConsoleAppAssignment1to6.exe.config
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\bin\Debug\ConsoleAppAssignment1to6.exe
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\bin\Debug\ConsoleAppAssignment1to6.pdb
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\obj\Debug\ConsoleAppAssignment1to6.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\obj\Debug\ConsoleAppAssignment1to6.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\obj\Debug\ConsoleAppAssignment1to6.exe
+C:\Users\andre\Desktop\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\ConsoleAppAssignment1to6\obj\Debug\ConsoleAppAssignment1to6.pdb
