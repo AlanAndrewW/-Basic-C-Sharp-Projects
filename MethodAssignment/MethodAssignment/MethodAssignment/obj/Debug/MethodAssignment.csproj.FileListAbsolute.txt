@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\andre\Desktop\MethodAssignment\MethodAssignment\MethodAssignment\obj\Debug\MethodAssignment.pdb
