@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\bin\Debug\NewMathMethods.exe.config
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\bin\Debug\NewMathMethods.exe
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\bin\Debug\NewMathMethods.pdb
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\obj\Debug\NewMathMethods.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\obj\Debug\NewMathMethods.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\obj\Debug\NewMathMethods.exe
+C:\Users\andre\Desktop\NewMathMethods\NewMathMethods\NewMathMethods\obj\Debug\NewMathMethods.pdb
